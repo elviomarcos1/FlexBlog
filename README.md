@@ -1,4 +1,4 @@
-📄 FlexBlog – Responsive HTML & CSS Website Using Flexbox
+#📄 FlexBlog – Responsive HTML & CSS Website Using Flexbox
 📌 Project Description
 FlexBlog is a fully responsive website built with HTML5 and CSS3, leveraging the Flexbox layout module extensively to create flexible and adaptive layouts for different screen sizes.
 The project was designed to practice modern CSS properties, semantic HTML structure, and responsive design principles.
